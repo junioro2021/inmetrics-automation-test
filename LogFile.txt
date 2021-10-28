@@ -1,0 +1,12 @@
+27 Oct 2021 12:44:14  INFO logger - Shutting down driver
+----------------------------------------------
+27 Oct 2021 12:54:14  INFO logger - Shutting down driver
+----------------------------------------------
+27 Oct 2021 13:01:09  INFO logger - Shutting down driver
+----------------------------------------------
+27 Oct 2021 13:05:46  INFO logger - Shutting down driver
+----------------------------------------------
+27 Oct 2021 18:00:11  INFO logger - Shutting down driver
+----------------------------------------------
+28 out 2021 09:01:36  INFO logger - Shutting down driver
+----------------------------------------------
